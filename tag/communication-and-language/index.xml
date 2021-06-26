@@ -5,12 +5,20 @@
     <link>/tag/communication-and-language/</link>
       <atom:link href="/tag/communication-and-language/index.xml" rel="self" type="application/rss+xml" />
     <description>Communication and Language</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua64261c49917fe48d46061d344453b21_144873_512x512_fill_lanczos_center_2.png</url>
       <title>Communication and Language</title>
       <link>/tag/communication-and-language/</link>
     </image>
+    
+    <item>
+      <title>Human-Centric Dialog Training via Offline Reinforcement Learning</title>
+      <link>/publication/humancentric-dialog-training-via-offline-reinforcement-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/humancentric-dialog-training-via-offline-reinforcement-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximating Interactive Human Evaluation with Self-Play for Open-Domain Dialog Systems</title>

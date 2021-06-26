@@ -45,6 +45,38 @@
     </item>
     
     <item>
+      <title>Learning via Social Awareness: Improving a Deep Generative Sketching Model with Facial Feedback</title>
+      <link>/publication/learning-via-social-awareness-improving-a-deep-generative-sketching-mo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-via-social-awareness-improving-a-deep-generative-sketching-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vomit Comet Physiology: Autonomic Changes in Novice Flyers</title>
+      <link>/publication/vomit-comet-physiology-autonomic-changes-in-novice-flyers/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/vomit-comet-physiology-autonomic-changes-in-novice-flyers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance of Sleep Data in Predicting Next-Day Stress, Happiness, and Health in College Students</title>
+      <link>/publication/importance-of-sleep-data-in-predicting-nextday-stress-happiness-and-he/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/importance-of-sleep-data-in-predicting-nextday-stress-happiness-and-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Autoencoder: A Deep Learning Approach to Filling in Missing Sensor Data and Enabling Better Mood Prediction</title>
+      <link>/publication/multimodal-autoencoder-a-deep-learning-approach-to-filling-in-missing-/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/multimodal-autoencoder-a-deep-learning-approach-to-filling-in-missing-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personalized Multitask Learning for Predicting Tomorrow&#39;s Mood, Stress, and Health</title>
       <link>/publication/personalized-multitask-learning-for-predicting-tomorrows-mood-stress-a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -73,6 +105,14 @@
       <link>/publication/machine-learning-of-sleep-and-wake-behaviors-to-classify-selfreported-/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/machine-learning-of-sleep-and-wake-behaviors-to-classify-selfreported-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personality, Attitudes, and Bonding in Conversations</title>
+      <link>/publication/personality-attitudes-and-bonding-in-conversations/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/personality-attitudes-and-bonding-in-conversations/</guid>
       <description></description>
     </item>
     
@@ -109,6 +149,54 @@
     </item>
     
     <item>
+      <title>Predicting students&#39; happiness from physiology, phone, mobility, and behavioral data</title>
+      <link>/publication/predicting-students-happiness-from-physiology-phone-mobility-and-behav/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/predicting-students-happiness-from-physiology-phone-mobility-and-behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of happy-sad mood from daily behaviors and previous sleep history</title>
+      <link>/publication/prediction-of-happysad-mood-from-daily-behaviors-and-previous-sleep-hi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/prediction-of-happysad-mood-from-daily-behaviors-and-previous-sleep-hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing academic performance, sleep quality, stress level, and mental health using personality traits, wearable sensors and mobile phones</title>
+      <link>/publication/recognizing-academic-performance-sleep-quality-stress-level-and-mental/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/recognizing-academic-performance-sleep-quality-stress-level-and-mental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet-based motion artifact removal for Electrodermal Activity</title>
+      <link>/publication/waveletbased-motion-artifact-removal-for-electrodermal-activity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/waveletbased-motion-artifact-removal-for-electrodermal-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Affect from Gaze Data During Interaction with an Intelligent Tutoring System</title>
+      <link>/publication/predicting-affect-from-gaze-data-during-interaction-with-an-intelligen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/predicting-affect-from-gaze-data-during-interaction-with-an-intelligen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Affect in an Intelligent Tutoring System</title>
+      <link>/publication/predicting-affect-in-an-intelligent-tutoring-system/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/predicting-affect-in-an-intelligent-tutoring-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Comparison of Random Forests and Dropout Nets for Sign Language Recognition with the Kinect</title>
       <link>/publication/a-comparison-of-random-forests-and-dropout-nets-for-sign-language-reco/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -117,10 +205,26 @@
     </item>
     
     <item>
+      <title>Emotionally Adaptive Intelligent Tutoring Systems using POMDPs</title>
+      <link>/publication/emotionally-adaptive-intelligent-tutoring-systems-using-pomdps/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/emotionally-adaptive-intelligent-tutoring-systems-using-pomdps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fast Johnson–Lindenstrauss transform for classification of high dimensional data</title>
       <link>/publication/fast-johnsonlindenstrauss-transform-for-classification-of-high-dimensi/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/fast-johnsonlindenstrauss-transform-for-classification-of-high-dimensi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding attention to adaptive hints in educational games: an eye-tracking study</title>
+      <link>/publication/understanding-attention-to-adaptive-hints-in-educational-games-an-eyet/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/understanding-attention-to-adaptive-hints-in-educational-games-an-eyet/</guid>
       <description></description>
     </item>
     
