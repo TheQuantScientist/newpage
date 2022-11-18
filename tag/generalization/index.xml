@@ -5,12 +5,20 @@
     <link>https://natashamjaques.github.io/tag/generalization/</link>
       <atom:link href="https://natashamjaques.github.io/tag/generalization/index.xml" rel="self" type="application/rss+xml" />
     <description>Generalization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://natashamjaques.github.io/media/icon_hua64261c49917fe48d46061d344453b21_144873_512x512_fill_lanczos_center_3.png</url>
       <title>Generalization</title>
       <link>https://natashamjaques.github.io/tag/generalization/</link>
     </image>
+    
+    <item>
+      <title>In the ZONE: Measuring difficulty and  progression in curriculum generation</title>
+      <link>https://natashamjaques.github.io/publication/in-the-zone-measuring-difficulty-and--progression-in-curriculum-genera/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://natashamjaques.github.io/publication/in-the-zone-measuring-difficulty-and--progression-in-curriculum-genera/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environment Generation for Zero-Shot Compositional Reinforcement Learning</title>
